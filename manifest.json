@@ -1,0 +1,835 @@
+{
+  "format_version": 1,
+  "certificates": [
+    {
+      "file": "certificates/n009.json",
+      "n": 9,
+      "K": 41,
+      "sha256": "81d8e998007a4d745f8781f273dd6e92e093dc1346fb7d70181c233876031ae7",
+      "claims": {
+        "density": "0.184380634",
+        "hermite": "2.10719105"
+      }
+    },
+    {
+      "file": "certificates/n010.json",
+      "n": 10,
+      "K": 61,
+      "sha256": "2ba035ee2d120a47adf352e5487762872e4c5ab0de18d21e973404b526e86893",
+      "claims": {
+        "density": "0.132492965",
+        "hermite": "2.21403730"
+      }
+    },
+    {
+      "file": "certificates/n011.json",
+      "n": 11,
+      "K": 81,
+      "sha256": "60be46b1a404e439e41c1c13f2d359580afcec563e703279c33e37ebb33d2736",
+      "claims": {
+        "density": "0.0949892088",
+        "hermite": "2.32361154"
+      }
+    },
+    {
+      "file": "certificates/n012.json",
+      "n": 12,
+      "K": 61,
+      "sha256": "606035f6da46668439029ea96794311b3fa1a4a5acffd109d6cf46230cec0869",
+      "claims": {
+        "density": "0.0680145536",
+        "hermite": "2.43537500"
+      }
+    },
+    {
+      "file": "certificates/n013.json",
+      "n": 13,
+      "K": 61,
+      "sha256": "aa28ae83499fb448167abc08731c800344f9a49f1555d89513185e34e80f4d80",
+      "claims": {
+        "density": "0.0488231948",
+        "hermite": "2.55014780"
+      }
+    },
+    {
+      "file": "certificates/n014.json",
+      "n": 14,
+      "K": 61,
+      "sha256": "476aead6db7a696e9e8a57f65c6652f00a1d63006c6a1228c05fb931bba116d9",
+      "claims": {
+        "density": "0.0352392080",
+        "hermite": "2.66846231"
+      }
+    },
+    {
+      "file": "certificates/n015.json",
+      "n": 15,
+      "K": 61,
+      "sha256": "55bb601a1d7bf522c07d730664856b88124810973078fcc077c89511a8b123e3",
+      "claims": {
+        "density": "0.0256118267",
+        "hermite": "2.79036749"
+      }
+    },
+    {
+      "file": "certificates/n016.json",
+      "n": 16,
+      "K": 81,
+      "sha256": "1d6f40a3ca0812758a696750a378dbbafb4dea3f97bdf43f114502aefa43f5b1",
+      "claims": {
+        "density": "0.0187461206",
+        "hermite": "2.91550715"
+      }
+    },
+    {
+      "file": "certificates/n017.json",
+      "n": 17,
+      "K": 61,
+      "sha256": "362bbe44ef80bd7195c67fd90198cdf890d247ad8fcf21f28ced220da0e912ae",
+      "claims": {
+        "density": "0.0138839313",
+        "hermite": "3.04530476"
+      }
+    },
+    {
+      "file": "certificates/n018.json",
+      "n": 18,
+      "K": 61,
+      "sha256": "3387f92d6ca59cd95d5d0a42de89f66225d65ca55e8e1ac60e52a425e8ab7f2c",
+      "claims": {
+        "density": "0.0103704834",
+        "hermite": "3.17829928"
+      }
+    },
+    {
+      "file": "certificates/n019.json",
+      "n": 19,
+      "K": 61,
+      "sha256": "655eb8bc5ca2cdc55e2911b5da031a41c50fb3058fee4ae828f7a4fb9c5e688b",
+      "claims": {
+        "density": "0.00782447361",
+        "hermite": "3.31487491"
+      }
+    },
+    {
+      "file": "certificates/n020.json",
+      "n": 20,
+      "K": 61,
+      "sha256": "4686f9f3dd92a5277b88a2739271db54bfd2f56d844acc6c09b53289bf8b9ff3",
+      "claims": {
+        "density": "0.00595808443",
+        "hermite": "3.45459458"
+      }
+    },
+    {
+      "file": "certificates/n021.json",
+      "n": 21,
+      "K": 81,
+      "sha256": "96ac1e48a25cd73d3f23c1304096b3282bc46a3ec8da81a642a2f4cef8f453a7",
+      "claims": {
+        "density": "0.00456045297",
+        "hermite": "3.59598696"
+      }
+    },
+    {
+      "file": "certificates/n022.json",
+      "n": 22,
+      "K": 61,
+      "sha256": "4f25ae930c3524c5438f970f8a9057ada35958f46384163c9919b0c8034235af",
+      "claims": {
+        "density": "0.00348596988",
+        "hermite": "3.73679395"
+      }
+    },
+    {
+      "file": "certificates/n023.json",
+      "n": 23,
+      "K": 81,
+      "sha256": "be423263ac57251fe815e8b5facc08a6cd2504b60b9abf30ebd1c8d70b9d4273",
+      "claims": {
+        "density": "0.00264134013",
+        "hermite": "3.87452661"
+      }
+    },
+    {
+      "file": "certificates/n024.json",
+      "n": 24,
+      "K": 61,
+      "sha256": "d7639a8bbf07186b3a5e0b440363c0324b7c0665a82ed3fc723c3cd39d6602bf",
+      "claims": {
+        "density": "0.00192973084",
+        "hermite": "4.00002704"
+      }
+    },
+    {
+      "file": "certificates/n025.json",
+      "n": 25,
+      "K": 81,
+      "sha256": "8f15e6220d5c0700cbf02ed637aefeaf763a894df098b7f7329f3ccbede14fa6",
+      "claims": {
+        "density": "0.00132930810",
+        "hermite": "4.10630186"
+      }
+    },
+    {
+      "file": "certificates/n026.json",
+      "n": 26,
+      "K": 81,
+      "sha256": "81c48fc71cb4768219e475769bfa82019a0b427514e9e428c0c1bf47fa8d57ea",
+      "claims": {
+        "density": "0.000915119176",
+        "hermite": "4.21292579"
+      }
+    },
+    {
+      "file": "certificates/n027.json",
+      "n": 27,
+      "K": 81,
+      "sha256": "110a7ce9bad1a934270ef9fb946ddf0e4c485164aca7b391d91d22dd889e3bd5",
+      "claims": {
+        "density": "0.000631342154",
+        "hermite": "4.32072830"
+      }
+    },
+    {
+      "file": "certificates/n028.json",
+      "n": 28,
+      "K": 81,
+      "sha256": "0bc6afca199f184712c3ebd1c7a41c7c02f9852fcea71dc1d4b1badc02b7b91f",
+      "claims": {
+        "density": "0.000437000598",
+        "hermite": "4.42998534"
+      }
+    },
+    {
+      "file": "certificates/n029.json",
+      "n": 29,
+      "K": 81,
+      "sha256": "a5067ce569b1c88de7ca57b5d5d386d9a64fd7521ee3ff46e07146e5326de36f",
+      "claims": {
+        "density": "0.000303842544",
+        "hermite": "4.54098851"
+      }
+    },
+    {
+      "file": "certificates/n030.json",
+      "n": 30,
+      "K": 81,
+      "sha256": "71e3bd36eff54737a238f311f520c6e79deb1445bf760af0d6463ff83586d13a",
+      "claims": {
+        "density": "0.000212402597",
+        "hermite": "4.65393966"
+      }
+    },
+    {
+      "file": "certificates/n031.json",
+      "n": 31,
+      "K": 81,
+      "sha256": "a68bcefc243f73ae33aeb490f21232815e888f59341a47c1bd0ccfe2c1bf7ac4",
+      "claims": {
+        "density": "0.000149408588",
+        "hermite": "4.76901852"
+      }
+    },
+    {
+      "file": "certificates/n032.json",
+      "n": 32,
+      "K": 81,
+      "sha256": "089daf27526b3045f68205e4a0749e61b605fd0507a5c6a6dd2fe0648789beb9",
+      "claims": {
+        "density": "0.000105764483",
+        "hermite": "4.88618700"
+      }
+    },
+    {
+      "file": "certificates/n033.json",
+      "n": 33,
+      "K": 81,
+      "sha256": "d6e0c4a3edcb020f5cc862ef0f75e009054abcbd19a730562248378dc6568505",
+      "claims": {
+        "density": "0.0000755167890",
+        "hermite": "5.00607874"
+      }
+    },
+    {
+      "file": "certificates/n034.json",
+      "n": 34,
+      "K": 81,
+      "sha256": "cfedeb5592c60ad05e621e1fef0eb075fc9449ba3173f77dcf0a01cf6d295049",
+      "claims": {
+        "density": "0.0000543081491",
+        "hermite": "5.12820091"
+      }
+    },
+    {
+      "file": "certificates/n035.json",
+      "n": 35,
+      "K": 81,
+      "sha256": "e86c6a956476b5ee13547e4db531e1bc7b8406006386d459d103a35e645f3530",
+      "claims": {
+        "density": "0.0000393266737",
+        "hermite": "5.25242913"
+      }
+    },
+    {
+      "file": "certificates/n036.json",
+      "n": 36,
+      "K": 81,
+      "sha256": "063bf600b495ff384b9dce763dd861c9646b1fe4ec25d91989e86266e1c46a7c",
+      "claims": {
+        "density": "0.0000286680609",
+        "hermite": "5.37865162"
+      }
+    },
+    {
+      "file": "certificates/n037.json",
+      "n": 37,
+      "K": 81,
+      "sha256": "0e3e22a9d9b7f3ee5b4df55ff4202dc7d5dbf7d08c5a3424b82275c4885f951b",
+      "claims": {
+        "density": "0.0000209981537",
+        "hermite": "5.50628059"
+      }
+    },
+    {
+      "file": "certificates/n038.json",
+      "n": 38,
+      "K": 81,
+      "sha256": "356e7a9d5ba2cddde1c0a0e66aa06da0cde0d3929abd0d60c4caa4c86c520e29",
+      "claims": {
+        "density": "0.0000152662254",
+        "hermite": "5.63167804"
+      }
+    },
+    {
+      "file": "certificates/n039.json",
+      "n": 39,
+      "K": 81,
+      "sha256": "fd07b0b7c99b69e4744e723c47463942e1d657cea1a0060c64aa4587b8e44d2c",
+      "claims": {
+        "density": "0.0000109486830",
+        "hermite": "5.75304380"
+      }
+    },
+    {
+      "file": "certificates/n040.json",
+      "n": 40,
+      "K": 101,
+      "sha256": "db78f4d8d87b7d791121f6d704e541dc34fe68c0c43e67164206cf76a27fce3e",
+      "claims": {
+        "density": "0.00000782816106",
+        "hermite": "5.87353198"
+      }
+    },
+    {
+      "file": "certificates/n041.json",
+      "n": 41,
+      "K": 121,
+      "sha256": "35f1724ddba445a845ef09fbffbbb18ce623af1b389f49091a740d6c559acbf7",
+      "claims": {
+        "density": "0.00000553072580",
+        "hermite": "5.99056460"
+      }
+    },
+    {
+      "file": "certificates/n042.json",
+      "n": 42,
+      "K": 121,
+      "sha256": "bf3f220d88e3810288d0a0ff5f1dcd49b07cde351e644e27e6a0320df3a2c009",
+      "claims": {
+        "density": "0.00000387816188",
+        "hermite": "6.10545742"
+      }
+    },
+    {
+      "file": "certificates/n043.json",
+      "n": 43,
+      "K": 121,
+      "sha256": "9865f45e4da6d878b739b547d4a2788cd04d5c7eff1468e21f0b0838a75c334a",
+      "claims": {
+        "density": "0.00000270203239",
+        "hermite": "6.21856977"
+      }
+    },
+    {
+      "file": "certificates/n044.json",
+      "n": 44,
+      "K": 121,
+      "sha256": "1b083524dd98421ff9ace420983e0ad7d1e703e3b8681b6a8e620a9ef14d6700",
+      "claims": {
+        "density": "0.00000186230595",
+        "hermite": "6.32864770"
+      }
+    },
+    {
+      "file": "certificates/n045.json",
+      "n": 45,
+      "K": 121,
+      "sha256": "8272fc53b421df168577827e26aafc2b84620500376a3bba9aefb29e6907571d",
+      "claims": {
+        "density": "0.00000128034519",
+        "hermite": "6.43811745"
+      }
+    },
+    {
+      "file": "certificates/n046.json",
+      "n": 46,
+      "K": 121,
+      "sha256": "02327f9151c6142dd1dd01c330e75c859d3510b6e7961341f73f459583165241",
+      "claims": {
+        "density": "0.000000880676408",
+        "hermite": "6.54783225"
+      }
+    },
+    {
+      "file": "certificates/n047.json",
+      "n": 47,
+      "K": 121,
+      "sha256": "83f2247a922b7e7d564c7c925e696958d6f460b5bb7f4508763bede0601c48b7",
+      "claims": {
+        "density": "0.000000607126117",
+        "hermite": "6.65827784"
+      }
+    },
+    {
+      "file": "certificates/n048.json",
+      "n": 48,
+      "K": 201,
+      "sha256": "371169bc5834c8b6192476fefca2059883f5904140780d535bedf1b710d81a4d",
+      "claims": {
+        "density": "0.000000419948220",
+        "hermite": "6.76975073"
+      }
+    },
+    {
+      "file": "certificates/n049.json",
+      "n": 49,
+      "K": 121,
+      "sha256": "b4359dc847a0607c980fe77e6f8a6caec9f6604582213f246d660d29bce5f7fb",
+      "claims": {
+        "density": "0.000000291698991",
+        "hermite": "6.88247076"
+      }
+    },
+    {
+      "file": "certificates/n050.json",
+      "n": 50,
+      "K": 121,
+      "sha256": "69ec29fdc3f72635ddcf513e6b01ef69ed14af5a600bd405a2b86499a6ca486c",
+      "claims": {
+        "density": "0.000000203458140",
+        "hermite": "6.99640512"
+      }
+    },
+    {
+      "file": "certificates/n051.json",
+      "n": 51,
+      "K": 121,
+      "sha256": "0736bd3b2afa04b1dd09169daaf51713c2972dfad34ce823dd4e536c302949da",
+      "claims": {
+        "density": "0.000000142487373",
+        "hermite": "7.11151154"
+      }
+    },
+    {
+      "file": "certificates/n052.json",
+      "n": 52,
+      "K": 121,
+      "sha256": "f220c7d3e962db2d5b550998e2952cbbd055085fd82aee48afeedcc3b6b8cb0c",
+      "claims": {
+        "density": "0.000000100209490",
+        "hermite": "7.22782027"
+      }
+    },
+    {
+      "file": "certificates/n053.json",
+      "n": 53,
+      "K": 121,
+      "sha256": "6631d05c40067a2b64874b5fde01dded2929eeca60807192ab829d1995c1b650",
+      "claims": {
+        "density": "0.0000000707065699",
+        "hermite": "7.34505464"
+      }
+    },
+    {
+      "file": "certificates/n054.json",
+      "n": 54,
+      "K": 121,
+      "sha256": "2a438c084617416cce621e211ea069acd9e620fcf5ce7974a34bac0a0aefc4f7",
+      "claims": {
+        "density": "0.0000000497631903",
+        "hermite": "7.46160076"
+      }
+    },
+    {
+      "file": "certificates/n055.json",
+      "n": 55,
+      "K": 121,
+      "sha256": "1f38072552b617a89f5448360002570dfbc8867a131a52c63c5d5bdd27c2ea36",
+      "claims": {
+        "density": "0.0000000348109436",
+        "hermite": "7.57648725"
+      }
+    },
+    {
+      "file": "certificates/n056.json",
+      "n": 56,
+      "K": 121,
+      "sha256": "1f4cb3f780b23c3aa8c3f886497a967311d6b18f4b8a05cefc143a4b9604c034",
+      "claims": {
+        "density": "0.0000000244093782",
+        "hermite": "7.69205133"
+      }
+    },
+    {
+      "file": "certificates/n057.json",
+      "n": 57,
+      "K": 121,
+      "sha256": "f96386a16fc5007fc8a9d5bc7b371fe59967b7798c902199896fd3edefb438e1",
+      "claims": {
+        "density": "0.0000000171634335",
+        "hermite": "7.80839496"
+      }
+    },
+    {
+      "file": "certificates/n058.json",
+      "n": 58,
+      "K": 161,
+      "sha256": "0f6e63c39131ba4f75b618d1f6e5571f520af192ca78d25b0a9edab8c0e3ea80",
+      "claims": {
+        "density": "0.0000000119491061",
+        "hermite": "7.92203609"
+      }
+    },
+    {
+      "file": "certificates/n059.json",
+      "n": 59,
+      "K": 161,
+      "sha256": "79f6b26e9908d3816ae6b5012310265e9cc7a05116d20749888ce679183dcbc1",
+      "claims": {
+        "density": "0.00000000828049863",
+        "hermite": "8.03444277"
+      }
+    },
+    {
+      "file": "certificates/n060.json",
+      "n": 60,
+      "K": 141,
+      "sha256": "11fb480b9bd4d233ea2f93e1d78eb0f4e3d9530cf42dfa360073fd1117249866",
+      "claims": {
+        "density": "0.00000000573544847",
+        "hermite": "8.14674959"
+      }
+    },
+    {
+      "file": "certificates/n061.json",
+      "n": 61,
+      "K": 161,
+      "sha256": "72c53a77225e7e3d7c4cc77e89180037f6bef2ae76bb808f668e0c036b81d39b",
+      "claims": {
+        "density": "0.00000000396971145",
+        "hermite": "8.25888756"
+      }
+    },
+    {
+      "file": "certificates/n062.json",
+      "n": 62,
+      "K": 161,
+      "sha256": "8f5014923b3f34431026a755b3f4a76feb6ffca892519f2a7ff6821b0e9875fd",
+      "claims": {
+        "density": "0.00000000274632309",
+        "hermite": "8.37093128"
+      }
+    },
+    {
+      "file": "certificates/n063.json",
+      "n": 63,
+      "K": 161,
+      "sha256": "d7135bbbc43800def3ffccd0ad2df9419637c3bf10443e3912924314237b279d",
+      "claims": {
+        "density": "0.00000000189257793",
+        "hermite": "8.48195501"
+      }
+    },
+    {
+      "file": "certificates/n064.json",
+      "n": 64,
+      "K": 161,
+      "sha256": "a69878d6e22547db23feb1c8d30587bd736a7e6ae69fd9f9570ca330effdd31c",
+      "claims": {
+        "density": "0.00000000129978772",
+        "hermite": "8.59209360"
+      }
+    },
+    {
+      "file": "certificates/n065.json",
+      "n": 65,
+      "K": 161,
+      "sha256": "74826b1bb48da61aa9d16ba2e95254e1796c3662d390ab3525fe072194e178ed",
+      "claims": {
+        "density": "0.000000000892325642",
+        "hermite": "8.70216393"
+      }
+    },
+    {
+      "file": "certificates/n066.json",
+      "n": 66,
+      "K": 161,
+      "sha256": "149654331055dac03d8c6780257dda9eab768ff5907fc82ca4fa80a1a1678b15",
+      "claims": {
+        "density": "0.000000000613061198",
+        "hermite": "8.81247058"
+      }
+    },
+    {
+      "file": "certificates/n067.json",
+      "n": 67,
+      "K": 161,
+      "sha256": "6662fc92d35666d357ae55af6f4bedf386deee8ab266967cc5f61af99d7d0e45",
+      "claims": {
+        "density": "0.000000000421802530",
+        "hermite": "8.92319122"
+      }
+    },
+    {
+      "file": "certificates/n068.json",
+      "n": 68,
+      "K": 161,
+      "sha256": "8ab13d875cfe820e2a2f0f7968ac0567f299dd83be2c3563c33239a4712ba588",
+      "claims": {
+        "density": "0.000000000290120314",
+        "hermite": "9.03385552"
+      }
+    },
+    {
+      "file": "certificates/n069.json",
+      "n": 69,
+      "K": 161,
+      "sha256": "e35a442abc8926dacf01e774708cb75cbee428688b8745de6b498ff3d894362f",
+      "claims": {
+        "density": "0.000000000200732130",
+        "hermite": "9.14611435"
+      }
+    },
+    {
+      "file": "certificates/n070.json",
+      "n": 70,
+      "K": 161,
+      "sha256": "6f8d0b034fdb4dc31db48e1e5f770f78508eb71c1052b8809600f2cf64381591",
+      "claims": {
+        "density": "0.000000000138650284",
+        "hermite": "9.25794299"
+      }
+    },
+    {
+      "file": "certificates/n071.json",
+      "n": 71,
+      "K": 161,
+      "sha256": "22a83b44fa81b8c9dc60b6cd48802744f144e2b2ee342b7285a6f3c9c9cb3d94",
+      "claims": {
+        "density": "0.0000000000960867646",
+        "hermite": "9.37066448"
+      }
+    },
+    {
+      "file": "certificates/n072.json",
+      "n": 72,
+      "K": 161,
+      "sha256": "0e9f4b7c8b8b01b52f8c5cc80606bc1d5e103aecbb6da134beb93d33e6e81f3f",
+      "claims": {
+        "density": "0.0000000000666598519",
+        "hermite": "9.48367738"
+      }
+    },
+    {
+      "file": "certificates/n073.json",
+      "n": 73,
+      "K": 161,
+      "sha256": "fd271979a3c0fdda5135587db64a4996691bd7b86d288d24572548503c9cee31",
+      "claims": {
+        "density": "0.0000000000462232194",
+        "hermite": "9.59657792"
+      }
+    },
+    {
+      "file": "certificates/n074.json",
+      "n": 74,
+      "K": 161,
+      "sha256": "313dcd7301f71a86572b9cec8c4053b8436a3ba74a640ce7d3299c0eddbc5826",
+      "claims": {
+        "density": "0.0000000000318709121",
+        "hermite": "9.70800263"
+      }
+    },
+    {
+      "file": "certificates/n075.json",
+      "n": 75,
+      "K": 161,
+      "sha256": "a6aaf3c7d5af07f4902ece839c8f92b0375f91b843da703b3e4648aab0bc025b",
+      "claims": {
+        "density": "0.0000000000219646063",
+        "hermite": "9.81931999"
+      }
+    },
+    {
+      "file": "certificates/n076.json",
+      "n": 76,
+      "K": 181,
+      "sha256": "6715d6769ec51b112c593a4f3547c5b943286e998da0f11e487d70ac3aab5cb1",
+      "claims": {
+        "density": "0.0000000000151143549",
+        "hermite": "9.93025462"
+      }
+    },
+    {
+      "file": "certificates/n077.json",
+      "n": 77,
+      "K": 181,
+      "sha256": "25676a0383349762f1aeb1cd5a160760e0bc64157ac97e35abd9bb9a68e6b8b9",
+      "claims": {
+        "density": "0.0000000000103903504",
+        "hermite": "10.0409504"
+      }
+    },
+    {
+      "file": "certificates/n078.json",
+      "n": 78,
+      "K": 181,
+      "sha256": "cc3a5972066c8a1c9fee71f5bdb0615f030dedd6689e0104e2f5d21684a560d9",
+      "claims": {
+        "density": "0.00000000000714184827",
+        "hermite": "10.1516270"
+      }
+    },
+    {
+      "file": "certificates/n079.json",
+      "n": 79,
+      "K": 181,
+      "sha256": "06847df50ffa733d716d59c28ba53b23b3bddb77dda37133963191b852039a2a",
+      "claims": {
+        "density": "0.00000000000491623059",
+        "hermite": "10.2627032"
+      }
+    },
+    {
+      "file": "certificates/n080.json",
+      "n": 80,
+      "K": 181,
+      "sha256": "560bd31196a0197b15e4879f09958eee227a9fb64bd1ac1d9bd50f168c6d1bff",
+      "claims": {
+        "density": "0.00000000000337074182",
+        "hermite": "10.3727613"
+      }
+    },
+    {
+      "file": "certificates/n081.json",
+      "n": 81,
+      "K": 181,
+      "sha256": "e9932d64609f74d862aa1921ebd98f4b3f20a586ee1257946edf872e2cca430f",
+      "claims": {
+        "density": "0.00000000000231456814",
+        "hermite": "10.4832245"
+      }
+    },
+    {
+      "file": "certificates/n082.json",
+      "n": 82,
+      "K": 181,
+      "sha256": "acb3150d8f008460a4073f71aae950a0c43aab81dd63326a6c5ac88deca6b943",
+      "claims": {
+        "density": "0.00000000000158911492",
+        "hermite": "10.5936671"
+      }
+    },
+    {
+      "file": "certificates/n083.json",
+      "n": 83,
+      "K": 181,
+      "sha256": "f1aa4c17626a259919fa56f4ac1a51a34443d351cdca1bc80f0ae9d0b2c54a0a",
+      "claims": {
+        "density": "0.00000000000108926359",
+        "hermite": "10.7037036"
+      }
+    },
+    {
+      "file": "certificates/n084.json",
+      "n": 84,
+      "K": 181,
+      "sha256": "f4c35b9bda725d220ec85d86308061baee875e6414774dcdfd14dc1c9e2b1500",
+      "claims": {
+        "density": "0.000000000000747188544",
+        "hermite": "10.8139444"
+      }
+    },
+    {
+      "file": "certificates/n085.json",
+      "n": 85,
+      "K": 181,
+      "sha256": "a338f382823c7296f2df3a4ee4afeed89e63c4e80d95d2b665a328686233f417",
+      "claims": {
+        "density": "0.000000000000510524957",
+        "hermite": "10.9231864"
+      }
+    },
+    {
+      "file": "certificates/n086.json",
+      "n": 86,
+      "K": 181,
+      "sha256": "a2d6d0de5ca6dd460c5cde52b650aa806f5939fc8d8b63356a337e51cb4409aa",
+      "claims": {
+        "density": "0.000000000000348807350",
+        "hermite": "11.0324340"
+      }
+    },
+    {
+      "file": "certificates/n087.json",
+      "n": 87,
+      "K": 181,
+      "sha256": "9517a1aff9a005725aca5664da360d347adddbeabec633349deb3465d62f4ef5",
+      "claims": {
+        "density": "0.000000000000238928356",
+        "hermite": "11.1423539"
+      }
+    },
+    {
+      "file": "certificates/n088.json",
+      "n": 88,
+      "K": 181,
+      "sha256": "391366c49793101d6936c1ddad067553ef5ca86252b2dffb2cab32d59ba4a60e",
+      "claims": {
+        "density": "0.000000000000163824494",
+        "hermite": "11.2525392"
+      }
+    },
+    {
+      "file": "certificates/n089.json",
+      "n": 89,
+      "K": 181,
+      "sha256": "7d110e504e1cb9e03490fc574f0a11ae9be565882a142648dac0e645c06890b8",
+      "claims": {
+        "density": "0.000000000000112348125",
+        "hermite": "11.3627805"
+      }
+    },
+    {
+      "file": "certificates/n090.json",
+      "n": 90,
+      "K": 181,
+      "sha256": "885a4c08671e0728cf8acd6fb8609b54ade0b2925f10628b03b4d61af7410ab5",
+      "claims": {
+        "density": "0.0000000000000771724614",
+        "hermite": "11.4734491"
+      }
+    },
+    {
+      "file": "certificates/n091.json",
+      "n": 91,
+      "K": 181,
+      "sha256": "28d40f72a2c3653c52d9a6a414c46319298c744b49dc6eabea0822ff99539b04",
+      "claims": {
+        "density": "0.0000000000000530260966",
+        "hermite": "11.5842033"
+      }
+    }
+  ]
+}
